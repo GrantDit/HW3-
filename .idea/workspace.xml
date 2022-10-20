@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="107c9f24-f5dc-4055-87f0-2279a9127391" name="Changes" comment="">
+    <list default="true" id="107c9f24-f5dc-4055-87f0-2279a9127391" name="Changes" comment="Переменные">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -56,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666292488976</updated>
-      <workItem from="1666292491923" duration="1454000" />
+      <workItem from="1666292491923" duration="1790000" />
     </task>
+    <task id="LOCAL-00001" summary="Переменные">
+      <created>1666295139111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666295139111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +81,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Переменные" />
+    <option name="LAST_COMMIT_MESSAGE" value="Переменные" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>1</line>
+          <properties class="Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
