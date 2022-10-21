@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="107c9f24-f5dc-4055-87f0-2279a9127391" name="Changes" comment="Переменные">
+    <list default="true" id="107c9f24-f5dc-4055-87f0-2279a9127391" name="Changes" comment="Домашнее задание">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -22,14 +22,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Proekt"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Proekt&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -54,7 +54,8 @@
       <updated>1666292488976</updated>
       <workItem from="1666292491923" duration="1790000" />
       <workItem from="1666303361523" duration="649000" />
-      <workItem from="1666304181186" duration="399000" />
+      <workItem from="1666304181186" duration="1914000" />
+      <workItem from="1666370750220" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="Переменные">
       <created>1666295139111</created>
@@ -63,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666295139111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Домашнее задание">
+      <created>1666304882705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666304882706</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Переменные" />
-    <option name="LAST_COMMIT_MESSAGE" value="Переменные" />
+    <MESSAGE value="Домашнее задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание" />
   </component>
 </project>
